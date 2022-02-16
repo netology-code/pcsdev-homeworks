@@ -5,11 +5,11 @@
 Ваш друг решил открыть свою веб-студию. Для того чтобы были клиенты, веб-студии нужен свой сайт. К сожалению, другу некогда этим заниматься. Он сверстал структуру страницы, а добавить стили попросил вас.
 Сейчас блок услуг веб-студии выглядит так:
 
-![](https://netology-code.github.io/html-2-homeworks/sources/2-1/web-studio-before.png)
+![](https://github.com/netology-code/pcsdev-homeworks/blob/master/pcsdev_html/sources/2-1/web-studio-before.png)
 
 А надо добиться такого результата:
 
-![](https://netology-code.github.io/html-2-homeworks/sources/2-1/web-studio-after.png)
+![](https://github.com/netology-code/pcsdev-homeworks/blob/master/pcsdev_html/sources/2-1/web-studio-after.png)
 
 ## Процесс реализации
 
@@ -17,7 +17,7 @@
 2. Установите ширину контентной области `1260px` для элемента с классом `services`.
 3. ​​Расположите элемент с классом `services` по центру страницы. На этом этапе демо должно отображаться следующим образом:
 
-![](https://netology-code.github.io/html-2-homeworks/sources/2-1/web-studio-stage2.jpg)
+![](https://github.com/netology-code/pcsdev-homeworks/blob/master/pcsdev_html/sources/2-1/web-studio-stage2.jpg)
 
 4. Установите внутренний отступ сверху `160px`, снизу - `30px`, слева и справа - `30px`для элементов с классом `card`.
 5. Установите ширину контентной области `420px` для элементов с классом `card`.
