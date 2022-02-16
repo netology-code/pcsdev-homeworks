@@ -6,20 +6,20 @@
 
 Сейчас страница со статьей выглядит так:
 
-![](https://netology-code.github.io/html-2-homeworks/sources/4-2/font-face-before.jpg)
+![](https://github.com/netology-code/pcsdev-homeworks/blob/master/pcsdev_html/sources/4-2/font-face-before.jpg)
 
 Вам нужно стилизовать надпись, чтобы верстка выглядела следующим образом:
 
-![](https://netology-code.github.io/html-2-homeworks/sources/4-2/font-face-after.jpg)
+![](https://github.com/netology-code/pcsdev-homeworks/blob/master/pcsdev_html/sources/4-2/font-face-after.jpg)
 
 ## Процесс реализации
 
-1. Скачайте [архив с исходными файлами задания](https://netology-code.github.io/html-2-homeworks/flex-elements-positioning/font-face/materials/task-4-2.zip).
+1. Скачайте [архив с исходными файлами задания](https://github.com/netology-code/pcsdev-homeworks/blob/master/pcsdev_html/flex-elements-positioning/font-face/materials/task-4-2.zip).
 2. Установите шрифт `Lobster-Regular.ttf` в вашу операционную систему.
 3. Измерьте в макете и установите размер текста для элемента с классом `container`.
 4. Измерьте в макете и установите цвет текста для элемента с классом `container`.
 5. Измерьте в макете и установите междустрочное расстояние для элемента `p`.
-6. Подключите шрифт `lobster`, используя директиву `font-face`. В качестве пути (`src`) используйте [https://netology-code.github.io/html-2-homeworks/flex-elements-positioning/font-face/fonts/lobster-regular.woff](https://netology-code.github.io/html-2-homeworks/flex-elements-positioning/font-face/fonts/lobster-regular.woff), в настройках укажите `font-family: lobster`, `font-weight: 400` и `font-style: normal`.
+6. Подключите шрифт `lobster`, используя директиву `font-face`. В качестве пути (`src`) используйте [https://github.com/netology-code/pcsdev-homeworks/blob/master/pcsdev_html/flex-elements-positioning/font-face/fonts/lobster-regular.woff](https://github.com/netology-code/pcsdev-homeworks/blob/master/pcsdev_html/flex-elements-positioning/font-face/fonts/lobster-regular.woff), в настройках укажите `font-family: lobster`, `font-weight: 400` и `font-style: normal`.
 7. Установите `font-family: lobster` для элемента с классом `container`.
 8. Убедитесь, что результат соответствует описанию. Для этого перейдите в режим FullPage ([скриншот](/pcsdev_html/sources/screen.md)). Если режим FullPage View выдал ошибку - вам нужно подтвердить свою учетную запись в codepen, пройдя по ссылке из письма, пришедшего от codepen, тогда все должно начать работать корректно.
 
