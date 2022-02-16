@@ -5,11 +5,11 @@
 Третье тестовое задание проверяет ваши знания CSS и заключается в стилизации блоков с иллюстрациями в статье.
 У вас есть верстка статьи с блоками иллюстраций:
 
-![](https://netology-code.github.io/html-2-homeworks/sources/1-2/new-york-task.jpg)
+![](https://github.com/netology-code/pcsdev-homeworks/blob/master/pcsdev_html/sources/1-2/new-york-task.jpg)
 
 Чтобы успешно выполнить задание, вам нужно правильно стилизовать оба блока с иллюстрациями. При этом вы должны получить следующий результат:
 
-![](https://netology-code.github.io/html-2-homeworks/sources/1-2/new-york-result.jpg)
+![](https://github.com/netology-code/pcsdev-homeworks/blob/master/pcsdev_html/sources/1-2/new-york-result.jpg)
 
 ## Процесс реализации
 
