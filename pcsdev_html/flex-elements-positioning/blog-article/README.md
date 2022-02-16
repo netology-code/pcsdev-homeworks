@@ -6,11 +6,11 @@
 
 Сейчас страница со статьей выглядит так:
 
-![](https://netology-code.github.io/html-2-homeworks/sources/4-2/blog-article-before.jpg)
+![](https://github.com/netology-code/pcsdev-homeworks/blob/master/pcsdev_html/sources/4-2/blog-article-before.jpg)
 
 Вам нужно **отредактировать стили** так, чтобы верстка выглядела следующим образом:
 
-![](https://netology-code.github.io/html-2-homeworks/sources/4-2/blog-article-after.jpg)
+![](https://github.com/netology-code/pcsdev-homeworks/blob/master/pcsdev_html/sources/4-2/blog-article-after.jpg)
 
 ## Процесс реализации
 
