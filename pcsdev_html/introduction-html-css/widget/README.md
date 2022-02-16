@@ -4,11 +4,11 @@
 
 Вдруг что-то пошло не так, и в блоге «Нетологии» пропали виджеты у новых статей! Вам поручили ответственную задачу &mdash; всё поправить. Сейчас виджет сам на себя не похож:
 
-![](https://netology-code.github.io/html-2-homeworks/sources/lection-1-1-task-3-widget-before.png)
+![](https://github.com/netology-code/pcsdev-homeworks/blob/master/pcsdev_html/sources/lection-1-1-task-3-widget-before.png)
 
 Менеджер звонит и умоляет как можно скорее сделать по-старому:
 
-![](https://netology-code.github.io/html-2-homeworks/sources/lection-1-1-task-3-widget-after.png)
+![](https://github.com/netology-code/pcsdev-homeworks/blob/master/pcsdev_html/sources/lection-1-1-task-3-widget-after.png)
 
 ## Процесс реализации
 
@@ -17,7 +17,7 @@
 3. Тегу `<h1>` добавьте атрибут `class` со значением `card-name`.
 4. Оберните ранее созданные элементы парным тегом `<div>` с атрибутом `class` и значением `card-content`.
 5. Перед элементом `<div>` с атрибутом `class` и значением `card-content` добавьте непарный тег `<img>`.
-6. Тегу `<img>` добавьте атрибут `src` со значением `https://netology-code.github.io/html-2-homeworks/introduction-html-css/widget/img/Секреты-JavaScript-ниндзя.jpg`.
+6. Тегу `<img>` добавьте атрибут `src` со значением `https://github.com/netology-code/pcsdev-homeworks/blob/master/pcsdev_html/introduction-html-css/widget/img/Секреты-JavaScript-ниндзя.jpg`.
 7. Тегу `<img>` добавьте атрибут `class` со значением `card-img`.
 8. Тегу `<img>` добавьте атрибут `alt` со значением «Обложка книги Cекреты JavaScript».
 9. Все текущие теги оберните парным тегом `<div>` с атрибутом `class` и значением `card`.
