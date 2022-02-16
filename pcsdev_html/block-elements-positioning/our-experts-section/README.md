@@ -7,11 +7,11 @@
 Менеджер как-то решил сам обновить раздел сайта, но что-то пошло не так.
 Если открыть страницу с разделом сейчас, то вы увидите не очень красивый результат:
 
-![](https://netology-code.github.io/html-2-homeworks/sources/2-2/experts-before.jpg)
+![](https://github.com/netology-code/pcsdev-homeworks/blob/master/pcsdev_html/sources/2-2/experts-before.jpg)
 
 Вам нужно привести блок к исходному виду:
 
-![](https://netology-code.github.io/html-2-homeworks/sources/2-2/experts-after.jpg)
+![](https://github.com/netology-code/pcsdev-homeworks/blob/master/pcsdev_html/sources/2-2/experts-after.jpg)
 
 ## Процесс реализации
 
@@ -19,13 +19,13 @@
 
 При этом внешний вид верстки должен измениться следующим образом:
 
-![](https://netology-code.github.io/html-2-homeworks/sources/2-2/experts-stage0.jpg)
+![](https://github.com/netology-code/pcsdev-homeworks/blob/master/pcsdev_html/sources/2-2/experts-stage0.jpg)
 
 2. Найдите ошибки во вложенности HTML-элементов и исправьте их. В результате каждый блок с информацией об эксперте должен содержать фотографию и имя эксперта.
 
 При этом внешний вид верстки должен измениться следующим образом:
 
-![](https://netology-code.github.io/html-2-homeworks/sources/2-2/experts-stage1.jpg)
+![](https://github.com/netology-code/pcsdev-homeworks/blob/master/pcsdev_html/sources/2-2/experts-stage1.jpg)
 
 3. Сделайте так, чтобы карточки спикеров располагались по 3 в ряд, как показано в макете.
 4. Установите верхнюю сплошную рамку шириной `3px` с цветом `#d9dbf5` для всех элементов с классом `speaker`, начиная с 4го элемента.
