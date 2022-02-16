@@ -6,11 +6,11 @@
 
 У вас есть страница со статьей, которая выглядит следующим образом:
 
-![](https://netology-code.github.io/html-2-homeworks/sources/4-2/fixed-menu-before.jpg)
+![](https://github.com/netology-code/pcsdev-homeworks/blob/master/pcsdev_html/sources/4-2/fixed-menu-before.jpg)
 
 Вам нужно доработать верстку, чтобы страница выглядела следующим образом:
 
-![](https://netology-code.github.io/html-2-homeworks/sources/4-2/fixed-menu-after.gif)
+![](https://github.com/netology-code/pcsdev-homeworks/blob/master/pcsdev_html/sources/4-2/fixed-menu-after.gif)
 
 ## Процесс реализации
 
