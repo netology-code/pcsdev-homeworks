@@ -4,11 +4,11 @@
 
 После собеседования в одной очень известной компании вы получили на почту тестовые задания. И первое из них &mdash; это создание статьи для википедии, посвященной Чемпионату мира по футболу. У вас есть только текст, который выглядит так:
 
-![](https://github.com/netology-code/pcsdev-homeworks/tree/master/pcsdev_html/sources/1-2/championship-task.jpg)
+![](https://github.com/netology-code/pcsdev-homeworks/blob/master/pcsdev_html/sources/1-2/championship-task.jpg)
 
 Итоговая верстка должна соответствовать макету и выглядеть следующим образом:
 
-![](https://github.com/netology-code/pcsdev-homeworks/tree/master/pcsdev_html/sources/1-2/championship-result-2.jpg)
+![](https://github.com/netology-code/pcsdev-homeworks/blob/master/pcsdev_html/sources/1-2/championship-result-2.jpg)
 
 ## Процесс реализации
 
