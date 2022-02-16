@@ -4,11 +4,11 @@
 
 Отлично, блок для «Википедии» свёрстан. Только вы закрыли Codepen, как с вами связался менеджер «Нетологии» и подкинул ещё задачу &mdash; стилизовать блок с описанием статьи для блога. Штатный верстальщик приболел, а статью надо срочно опубликовать. Сейчас описание выглядит так:
 
-![](https://netology-code.github.io/html-2-homeworks/sources/lection-1-1-task-2-article-before.png)
+![](https://github.com/netology-code/pcsdev-homeworks/blob/master/pcsdev_html/sources/lection-1-1-task-2-article-before.png)
 
 А чтобы органично сочетаться со статьей, оно должно быть таким:
 
-![](https://netology-code.github.io/html-2-homeworks/sources/lection-1-1-task-2-article-after.png)
+![](https://github.com/netology-code/pcsdev-homeworks/blob/master/pcsdev_html/sources/lection-1-1-task-2-article-after.png)
 
 ## Процесс реализации
 
