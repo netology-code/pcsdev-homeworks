@@ -6,19 +6,19 @@
 
 Сейчас блок выглядит следующим образом:
 
-![](https://netology-code.github.io/html-2-homeworks/sources/3-2/search-before.jpg)
+![](https://github.com/netology-code/pcsdev-homeworks/blob/master/pcsdev_html/sources/3-2/search-before.jpg)
 
 Ваша задача состоит в том, чтобы привести блок к виду:
 
-![](https://netology-code.github.io/html-2-homeworks/sources/3-2/search-after.jpg)
+![](https://github.com/netology-code/pcsdev-homeworks/blob/master/pcsdev_html/sources/3-2/search-after.jpg)
 
 ## Процесс реализации
 
 1. Найдите ошибки во вложенности HTML-элементов и исправьте их так, чтобы форма содержала поле ввода с подсказкой и кнопку. В результате блок должен принять следующий вид:
 
-![](https://netology-code.github.io/html-2-homeworks/sources/3-2/search-stage-0.jpg)
+![](https://github.com/netology-code/pcsdev-homeworks/blob/master/pcsdev_html/sources/3-2/search-stage-0.jpg)
 
-2. К полю ввода добавьте фоновую иконку [https://netology-code.github.io/html-2-homeworks/form-elements/search-field/img/search.svg](https://netology-code.github.io/html-2-homeworks/form-elements/search-field/img/search.svg).
+2. К полю ввода добавьте фоновую иконку [https://github.com/netology-code/pcsdev-homeworks/blob/master/pcsdev_html/form-elements/search-field/img/search.svg](https://github.com/netology-code/pcsdev-homeworks/blob/master/pcsdev_html/form-elements/search-field/img/search.svg).
 3. Установите размер иконки `25px` для поля ввода.
 4. Расположите иконку на расстоянии `20px` от левого края поля по горизонтали, а по вертикали - по центру для поля ввода.
 5. Убедитесь, что результат соответствует описанию. Для этого перейдите в режим FullPage ([скриншот](/pcsdev_html/sources/screen.md)). Если режим FullPage View выдал ошибку — вам нужно подтвердить свою учетную запись в codepen, пройдя по ссылке из письма, пришедшего от codepen, тогда все должно начать работать корректно.
